@@ -15,7 +15,7 @@ import OrganizerDashboard from './components/OrganizerDashboard/OrganizerDashboa
 import EventForm from './components/EventForm/EventForm';
 import Modal from './components/Modal/Modal';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://vit-events-api.onrender.com/api';
 
 export default function App() {
     const [view, setView] = useState('home');
