@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../Card/Card';
+import Card from '../card/card';
 import Icon from '../Icon/Icon';
 import './EventCard.css';
 
